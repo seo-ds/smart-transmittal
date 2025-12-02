@@ -1,0 +1,5 @@
+{
+  "name": "Smart Transmittal Gen",
+  "description": "An AI-powered document transmittal generator that standardizes filenames and prepares formal transmittal sheets.",
+  "requestFramePermissions": []
+}
